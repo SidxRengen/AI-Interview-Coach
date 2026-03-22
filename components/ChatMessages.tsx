@@ -30,7 +30,7 @@ type ChatMessagesProps = {
   isTyping: boolean;
   typingMessage: string;
   loading: boolean;
-  scrollRef: React.RefObject<HTMLDivElement>;
+  scrollRef: React.RefObject<HTMLDivElement | null>;
 };
 
 export function ChatMessages({
