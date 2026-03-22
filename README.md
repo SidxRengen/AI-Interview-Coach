@@ -19,11 +19,6 @@
 
 I built an AI-powered interview coach that helps users prepare for different domains like **DSA**, **HR**, and **System Design**. Instead of a generic chatbot, this product is designed to simulate real interview guidance with structured responses and domain-specific expertise.
 
-The coach adapts its teaching style based on the selected domain, providing:
-- **DSA**: Algorithm explanations, complexity analysis, and optimized solutions
-- **HR**: Behavioral interview coaching with STAR method guidance
-- **System Design**: Scalable architecture design with trade-off analysis
-
 ---
 
 ## 🎯 Why I Built This
