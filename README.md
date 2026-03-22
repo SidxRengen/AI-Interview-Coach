@@ -51,13 +51,6 @@ The result is a personalized interview coach that helps users practice in a real
 - Auto-scroll to latest message
 - Message grouping and styling based on role
 
-### 🧠 Domain-Specific Coaching
-| Mode | Focus Area | Coaching Style |
-|------|------------|----------------|
-| **DSA** | Data Structures & Algorithms | Step-by-step problem solving, complexity analysis, optimization tips |
-| **HR** | Behavioral Interviews | STAR method guidance, communication skills, career advice |
-| **System Design** | Architecture Design | Structured approach, trade-offs, scalability considerations |
-
 ### 🧊 Modern UI/UX
 - Glassmorphism design with backdrop blur effects
 - Animated gradient backgrounds
